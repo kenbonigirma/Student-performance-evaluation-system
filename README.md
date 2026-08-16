@@ -47,7 +47,7 @@ The program has a student named Kenboni Girma.
 
 It stores:
 - Name: Kenboni Girma
-- Age: 20
+- Age: 21
 - Course: JavaScript
 - Score: 85
 - Attendance: 80%

@@ -1,6 +1,6 @@
 // ===== STUDENT INFORMATION =====
 const fullName = " Kenboni Girma ";
-const age = 20;
+const age = 21;
 const course = "JavaScript";
 const score = 85;
 const attendance = 80;
